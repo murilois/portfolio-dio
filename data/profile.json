@@ -1,0 +1,65 @@
+{
+  "name": "Murilo de Mattos Lima",
+  "photo": "https://avatars.githubusercontent.com/u/125592317?v=4",
+  "job": "LinkedIn",
+  "location": "Gravataí - RS",
+  "email": "murilomattosdev05@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+      },
+      {
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento Estratégico",
+      "Orientação a resultados"
+    ]
+  },
+  "languages": [
+    "Português BR - Nativo",
+    "Inglês - Avançado"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/murilois/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Calculadora",
+      "url": "https://github.com/murilois/Calculadora",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Gestor de Tráfego Pago - Complexo do Marketing",
+      "period": "Ago 2023 - Nov 2024",
+      "description": "Gerenciamento de anúncios pagos focado no Meta ADS, atendimento ao cliente e controle e relatórios financeiros"
+    },
+    {
+      "name": "Assistente de varejo - Aldeia AutoPeças",
+      "period": "Out 2019 - Fev 2022",
+      "description": "Gerenciamento de inventários, atendimento ao cliente e relatório financeiro"
+    }
+  ]
+}

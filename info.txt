@@ -1,0 +1,1 @@
+Este repositório serve para mostrar como ficou meu portfolio ao fim do módulo 4, porém irei utilizar um fork do que foi utilizado no curso para a finalização e entrega do projeto final.
