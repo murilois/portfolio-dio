@@ -25,27 +25,23 @@
     <link rel="stylesheet" href="assets/css/experience.css">
     <link rel="stylesheet" href="assets/css/skills.css">
     <!-- /Assets CSS -->
-    <!-- Scripts JS -->
-    <script src="assets/js/scripts.js" defer></script>
-    <script src="assets/js/api.js" defer></script>
-    <script src="assets/js/main.js" defer></script>
-    <!-- /Scripts JS -->
+    
 </head>
 <body>
     <main class="container">
         <!-- Header -->
         <header class="header">
-            <img src="assets/img/perfil.png" alt="Foto de Perfil Murilo Mattos" class="photo">
+            <img src="assets/img/perfil.png" alt="Foto de Perfil" class="photo" id="profile.photo">
 
-            <h1 class="title">Olá, sou Murilo de Mattos Lima</h1>
+            <h1 class="title">Olá, sou <span id="profile.name">Loading...</span></h1>
 
             <div class="information">
                 <p class="role">
-                    <a href="https://www.linkedin.com/in/murilo-de-mattos-lima-a52109261/" target="_blank">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/murilo-de-mattos-lima-a52109261/" target="_blank" id="profile.linkedin">Loading...</a>
                 </p>
-                <p class="location">Rio Grande do Sul - BR</p>
+                <p class="location" id="profile.location">Loading...</p>
                 <p class="email">
-                    <a href="mailto:murilomattosdev05@gmail.com">murilomattosdev05@gmail.com</a>
+                    <a href="mailto:murilomattosdev05@gmail.com" id="profile.email">Loading...</a>
                 </p>
             </div>
 
@@ -167,5 +163,10 @@
         </section>
         <!-- /Experiência Profissional -->
     </main>
+    <!-- Scripts JS -->
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
+    <!-- /Scripts JS -->
 </body>
 </html>

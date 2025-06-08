@@ -8,23 +8,23 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/python.svg"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/javascript.svg"
       },
       {
         "name": "NodeJS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/nodejs.svg"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/mongodb.svg"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/postgresql.svg"
       }
     ],
     "softSkills": [
