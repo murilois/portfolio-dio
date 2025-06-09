@@ -8,23 +8,23 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/mainassets/img/icons/python.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/python.svg"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/mainassets/img/icons/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/javascript.svg"
       },
       {
         "name": "NodeJS",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/mainassets/img/icons/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/nodejs.svg"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/mainassets/img/icons/mongodb.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/mongodb.svg"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/mainassets/img/icons/postgresql.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/postgresql.svg"
       }
     ],
     "softSkills": [
