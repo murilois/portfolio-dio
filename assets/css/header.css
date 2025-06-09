@@ -15,7 +15,7 @@
     margin-right: .5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(..img/icons/dots.svg);
+    background-image: url('../img/icons/dots.svg');
 }
 .header .photo{
     width: 200px;
@@ -53,13 +53,13 @@
     background-size: contain;
 }
 .information .role::before{
-    background-image: url(..img/icons/profile.svg);
+    background-image: url('../img/icons/profile.svg');
 }
 .information .location::before{
-    background-image: url(..img/icons/localpin.svg);
+    background-image: url('../img/icons/localpin.svg');
 }
 .information .email::before{
-    background-image: url(..img/icons/mail.svg);
+    background-image: url('../img/icons/mail.svg');
 }
 @media only screen and (min-width:768px){
     .header{

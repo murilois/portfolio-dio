@@ -22,7 +22,7 @@ a:hover{
 .container::before,
 .container::after{
     content:'';
-    background-image: url(..img/background.svg);
+    background-image: url('../img/background.svg);
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;

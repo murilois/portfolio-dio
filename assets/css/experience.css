@@ -19,6 +19,6 @@
     height: 1rem;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(..img/icons/calendary.svg);
+    background-image: url('../img/icons/calendary.svg');
     margin-right: .5rem;
 }
