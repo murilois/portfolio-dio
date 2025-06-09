@@ -22,6 +22,10 @@
     height: 200px;
     border-radius: 50%;
 }
+#profile-name{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+}
 .header .title{
     font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
